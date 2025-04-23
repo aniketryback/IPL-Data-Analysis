@@ -33,7 +33,7 @@ The data used in this project is obtained from the Kaggle dataset: [jamiewelsh2/
 
 ## Setup and Installation
 
-1.  Clone the Repositiory ```bash
+1.  ```bash
     git clone [https://github.com/aniketryback/IPL-Data-Analysis.git](https://github.com/aniketryback/IPL-Data-Analysis.git)
     ```
 2.  (Optional) If you're running the notebook locally, make sure you have the required libraries installed. You can install them using pip:
@@ -59,4 +59,4 @@ The data used in this project is obtained from the Kaggle dataset: [jamiewelsh2/
 
 ## Author
 
-Aniket
+Aniket Majumder
